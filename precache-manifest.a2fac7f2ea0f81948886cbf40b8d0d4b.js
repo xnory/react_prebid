@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "812a67875b94b9eed82ff16148194df7",
+    "revision": "1f14f53fbbd3450c63ce641498bafe21",
     "url": "/react_prebid/index.html"
   },
   {
