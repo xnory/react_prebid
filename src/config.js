@@ -1,10 +1,10 @@
-const config = {
- prebid: {
+export default {
+prebid: {
     bidderTimeout: 1500,
     priceGranularity: "high",
     bidderSequence: "fixed"
-  },
-  slots: [
+  }, 
+   slots: [
       {
         id: "div-gpt-ad-1460505748561-0",
         path: "/19968336/header-bid-tag-0",
@@ -28,4 +28,5 @@ const config = {
         ]
       }
     ]
-};
+  };
+  
